@@ -2,15 +2,14 @@
 <h2>اول وی پی ان</h2>
 <br>
 <h3>
-فیلترشکن یک ماهه 139 هزار تومان
-<br><br>
-  <a href="https://www.aval-vpn.com/#buy-vpn" target="_blank">🔗 برای خرید فیلترشکن از طریق سایت اینجا کلیک کنید</a>
+<br>
+  <a href="https://www.aval-vpn.com/#buy-vpn">🔗 برای خرید فیلترشکن از طریق سایت اینجا کلیک کنید</a>
 <br><br>
 💬 برای خرید فیلترشکن از طریق تلگرام به ایدی <a href="https://t.me/avalvpn_support" target="_blank" dir="ltr">@avalvpn_support</a> پیام ارسال کنید.
 <br><br>
 💬 برای خرید فیلترشکن از طریق واتساپ به شماره‌ <a href="https://wa.me/17044957381" target="_blank">17044957381</a> پیام ارسال کنید.
 <br><br>
-🌐 آدرس همیشگی سایت: <a href="https://www.avalvpn.com" target="_blank">www.avalvpn.com</a>
+🌐 آدرس همیشگی سایت: <a href="https://www.avalvpn.com">www.avalvpn.com</a>
 <br><br><br>
 <img src="https://imgurl.ir/uploads/a96615_avalvpn.png">
 <br><br>
