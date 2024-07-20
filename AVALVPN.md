@@ -24,15 +24,6 @@
 <br>
 قابلیت اتصال همزمان از 3 دستگاه مختلف
 <br>
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11316991973"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-11316991973');
-</script>
-خرید VPN برای اندروید
 <br>
 خرید VPN برای آیفون
 <br>
