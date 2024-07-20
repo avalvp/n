@@ -7,8 +7,6 @@
 💬 برای خرید فیلترشکن از طریق تلگرام به ایدی <a href="https://t.me/avalvpn_support" target="_blank" dir="ltr">@avalvpn_support</a> پیام ارسال کنید.
 <br><br>
 💬 برای خرید فیلترشکن از طریق واتساپ به شماره‌ <a href="https://wa.me/17044957381" target="_blank">17044957381</a> پیام ارسال کنید.
-<br><br>
-🌐 آدرس همیشگی سایت: <a href="https://www.avalvpn.com" target="_blank">www.avalvpn.com</a>
 <br><br><br>
 <img src="https://imgurl.ir/uploads/a96615_avalvpn.png">
 <br><br>
